@@ -29,7 +29,7 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 ]
 ```
 
-- [] 3.- Dado el  array **staff**, crear un segundo array que forme frases como en el ejemplo accediendo a las propiedades del objeto proporcionado:
+- [X] 3.- Dado el  array **staff**, crear un segundo array que forme frases como en el ejemplo accediendo a las propiedades del objeto proporcionado:
 ```
 const staff = [
   {
@@ -68,7 +68,7 @@ const staff = [
 
 ### Filter ###
 
-- [ ] 4.- Crea un segundo array result4 a partir del array numbers2 que devuelva solo los impares
+- [X] 4.- Crea un segundo array result4 a partir del array numbers2 que devuelva solo los impares
 
 ```
 const numbers2 = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
